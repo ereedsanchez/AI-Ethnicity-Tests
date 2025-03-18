@@ -1,6 +1,3 @@
-# AI-Ethnicity-Tests
-
-
 # AI Ethnicity Detector Testing: Research Protocol
 
 ## Project Overview
