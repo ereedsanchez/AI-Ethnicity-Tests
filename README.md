@@ -24,6 +24,7 @@ This research project aims to test the accuracy and biases of AI ethnicity detec
    - Ensure image quality is sufficient for AI processing (recommended: at least 300x300 pixels)
    - Crop images to focus on faces (head and shoulders)
    - Ensure consistent lighting where possible
+   - Use Mac_Automator_Workflow: https://github.com/ereedsanchez/AI-Ethnicity-Tests/blob/main/Mac_Automator_workflow
 
 3. **Name files using standardized convention**:
    - Format: [Your Initials]_image_[Number]
