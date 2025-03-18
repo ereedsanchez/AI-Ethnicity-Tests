@@ -109,18 +109,19 @@ Each student should submit:
 Test each image across the following AI ethnicity detection systems:
 
 1. **Niykel**
+   - Visit https://www.nyckel.com/pretrained-classifiers/likely-race-identifier/
    - Access the Niykel ethnicity detection tool
    - Upload each image individually
    - Record the detected ethnicity results in columns labeled: "Niykel_Ethnicity_0" through "Niykel_Ethnicity_6" using the same binary system (1 if detected, 0 if not)
    - Record confidence scores (if provided) in columns labeled: "Niykel_Confidence_0" through "Niykel_Confidence_6"
 
-2. **MiniApps.ai Ethnicity Guesser**
+3. **MiniApps.ai Ethnicity Guesser**
    - Visit miniapps.ai/ethnicity-guesser
    - Upload each image following the site instructions
    - Record the detected ethnicity results in columns labeled: "MiniApps_Ethnicity_0" through "MiniApps_Ethnicity_6"
    - Record confidence scores in columns labeled: "MiniApps_Confidence_0" through "MiniApps_Confidence_6"
 
-3. **FairFace App**
+4. **FairFace App**
    - Access the FairFace application
    - Upload each image following the application instructions
    - Record the detected ethnicity results in columns labeled: "FairFace_Ethnicity_0" through "FairFace_Ethnicity_6"
