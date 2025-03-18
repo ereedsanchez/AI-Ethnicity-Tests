@@ -18,7 +18,7 @@ This research project aims to test the accuracy and biases of AI ethnicity detec
 
 2. **Process images to a standardized format**:
    - Convert all images to JPG format
-   - Ensure image quality is sufficient for AI processing (recommended: at least 300x300 pixels)
+   - Ensure image quality is sufficient for AI processing (recommended: at least 400 pixels)
    - Crop images to focus on faces (head and shoulders)
    - Ensure consistent lighting where possible
    - Use Mac_Automator_Workflow: https://github.com/ereedsanchez/AI-Ethnicity-Tests/blob/main/Mac_Automator_workflow
